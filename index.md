@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my blogiogiogi"
 ---
 
-I'm glad you are here. I plan to talk about ...
+we shall never surrender!
